@@ -5,11 +5,8 @@
   padding: 92px 20px 92px 17px;
 }
 
-.adress__content {
-  justify-self: end;
-}
-
 .adress {
+  justify-self: end;
   font-size: 18px;
   font-style: normal;
   line-height: 1.3;
